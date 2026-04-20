@@ -15,9 +15,6 @@ export default function Home() {
           Welcome to Mark's Happy <a href="https://nextjs.org">Next.js</a> App
           running on Docker Compose
         </h1>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js</a> on Docker Compose
-        </h1>
 
         <p className={styles.description}>
           Get started by editing{" "}
