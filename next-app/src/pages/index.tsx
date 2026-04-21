@@ -12,8 +12,8 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Mark's Happy <a href="https://nextjs.org">Next.js</a> App
-          running on Docker Compose
+          Welcome to Skills and Learn Happy{" "}
+          <a href="https://nextjs.org">Next.js</a> App running on Docker Compose
         </h1>
 
         <p className={styles.description}>
